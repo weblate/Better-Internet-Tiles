@@ -14,21 +14,21 @@
     <string name="xda_title">Thread do XDA Developers</string>
     <string name="settings">Configurações</string>
     <string name="about">Sobre</string>
-    <string name="shell_access_not_set_up">É necessário ter acesso root ou a Shizuku para ativar/desativar esse bloco</string>
+    <string name="shell_access_not_set_up">É necessário ter acesso root ou Shizuku para ativar/desativar esse botão</string>
     <string name="shell_access_required">Acesso Shell requerido</string>
     <string name="hide_service_title">Esconda-me!</string>
-    <string name="hide_service_description">Esta notificação garante que os blocos funcionem corretamente com Shizuku. Sinta-se à vontade para ocultá-la.</string>
+    <string name="hide_service_description">Esta notificação garante que os botões funcionem corretamente com Shizuku. Sinta-se à vontade para ocultá-la.</string>
     <string name="toast_foreground_service_error">Não foi possível iniciar o serviço em primeiro plano. Entre em contato com o desenvolvedor.</string>
-    <string name="tile_added_error">Não foi possível adicionar o bloco</string>
-    <string name="tile_added">Bloco adicionado</string>
-    <string name="tile_already_added">Bloco já adicionado</string>
+    <string name="tile_added_error">Não foi possível adicionar o botão</string>
+    <string name="tile_added">Botão adicionado</string>
+    <string name="tile_already_added">Botão já adicionado</string>
     <string name="internet">Internet</string>
     <string name="network_not_available">Rede indisponível</string>
     <string name="no_service">Sem serviço</string>
     <string name="airplane_mode">Modo avião</string>
     <string name="help_translate">Ajude a traduzir este aplicativo!</string>
     <string name="language">Idioma</string>
-    <string name="available_tiles">Blocos disponíveis</string>
+    <string name="available_tiles">Botões disponíveis</string>
     <string name="shell_method">Método shell</string>
     <string name="home">Início</string>
     <string name="app_info">Informações do App</string>
@@ -43,7 +43,7 @@
     <string name="donate">Doação</string>
     <string name="donate_summary">Mostre seu apoio através de uma doação</string>
     <string name="good_to_go">Tudo pronto!</string>
-    <string name="good_to_go_description">Todas as permissões necessárias foram concedidas. Confira os blocos disponíveis abaixo!</string>
+    <string name="good_to_go_description">Todas as permissões necessárias foram concedidas. Confira os botões disponíveis abaixo!</string>
     <string name="missing_permissions">Permissões faltando</string>
     <string name="missing_permissions_description">Algumas coisas podem não funcionar como esperado. Expanda para mais informações.</string>
     <string name="shell_access">Acesso shell</string>
@@ -65,9 +65,14 @@
     <string name="visible">Visível</string>
     <string name="hidden">Oculto</string>
     <string name="hidden_during_recording">Oculto durante gravação</string>
-    <string name="hide_wifi_name_description">Essa configuração se aplica tanto ao Wi-Fi quanto aos ícones de Internet</string>
+    <string name="hide_wifi_name_description">Essa configuração se aplica tanto ao botão de Wi-Fi quanto ao de Internet</string>
     <string name="behaviour">Comportamento</string>
     <string name="look">Olhar</string>
     <string name="wifi">Wi-Fi</string>
     <string name="nfc">NFC</string>
+    <plurals name="used_for_tiles">
+        <item quantity="one">Usado para o botão %1$s</item>
+        <item quantity="many">Usado para %1$s botões</item>
+        <item quantity="other">Usado para %1$s botões</item>
+    </plurals>
 </resources>
