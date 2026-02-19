@@ -66,4 +66,12 @@
     <string name="allow_shizuku_access">Shizuku hozzáférés engedélyezése</string>
     <string name="restart_app_summary">Próbálja meg újraindítani az alkalmazást, ha valami nem működik.</string>
     <string name="turning_on">Bekapcsolás…</string>
+    <string name="connected">Csatlakozva</string>
+    <string name="hide_wifi_name">WiFi név elrejtése</string>
+    <string name="visible">Látható</string>
+    <string name="hidden">Elrejtve</string>
+    <string name="hidden_during_recording">Felvétel alatt elrejtve</string>
+    <string name="hide_wifi_name_description">A beállítás a WiFi és Internet csempékre is vonatkozik</string>
+    <string name="behaviour">Viselkedés</string>
+    <string name="look">Megjelenítés</string>
 </resources>
