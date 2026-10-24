@@ -3,9 +3,9 @@
     <string name="wifi">Wi-Fi</string>
     <string name="mobile_data">Data seluler</string>
     <string name="nfc">NFC</string>
-    <string name="on">Aktif</string>
-    <string name="off">Nonaktif</string>
-    <string name="turning_on">Mengaktifkan…</string>
+    <string name="on">Hidup</string>
+    <string name="off">Mati</string>
+    <string name="turning_on">Menghidupkan…</string>
     <string name="not_connected">Tidak terhubung</string>
     <string name="require_unlock_title">Perlu buka kunci</string>
     <string name="require_unlock_summary">Cegah tindakan ubin saat di layar kunci</string>
@@ -26,7 +26,7 @@
     <string name="tile_already_added">Ubin sudah ditambahkan</string>
     <string name="internet">Internet</string>
     <string name="network_not_available">Jaringan tidak tersedia</string>
-    <string name="no_service">Tidak ada sinyal</string>
+    <string name="no_service">Tidak ada layanan</string>
     <string name="airplane_mode">Mode pesawat</string>
     <string name="help_translate">Bantu terjemahkan aplikasi ini!</string>
     <string name="language">Bahasa</string>
@@ -38,10 +38,10 @@
     <string name="shizuku_description">Shizuku memungkinkan aplikasi biasa menggunakan API sistem secara langsung dengan hak istimewa yang ditingkatkan menggunakan ADB pada perangkat yang tidak di-root</string>
     <string name="root_description">Cara paling sederhana untuk mendapatkan akses tingkat shell saat ponsel Anda di-root</string>
     <string name="auto">Otomatis</string>
-    <string name="ok">Oke</string>
+    <string name="ok">Ok</string>
     <string name="yes">Ya</string>
     <string name="no">Tidak</string>
-    <string name="use_default">Gunakan default</string>
+    <string name="use_default">Gunakan bawaan</string>
     <string name="donate">Donasi</string>
     <string name="donate_summary">Tunjukkan dukungan Anda melalui donasi</string>
     <string name="good_to_go">Siap digunakan!</string>
